@@ -12,13 +12,6 @@ schedules:
     lunch: true
     dinner: false
 
-    - weekday: Mon
-    restaurant: 1
-    vegetarian: false
-    coffee: false
-    lunch: false
-    dinner: true
-
   - weekday: Tue
     restaurant: 2
     vegetarian: false
@@ -65,5 +58,5 @@ schedules:
     restaurant: 2
     vegetarian: false
     coffee: false
-    lunch: false
+    lunch: true
     dinner: false
